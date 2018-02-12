@@ -1,0 +1,7 @@
+-*-   DBF-2-TXT  1.0   *   Copyright (c) Gazlan, 2015   -*-
+
+DBX DBF-2-TXT dumper
+
+Usage: dbf2txt.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
